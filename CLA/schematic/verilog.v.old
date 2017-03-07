@@ -17,15 +17,15 @@ input  T2;
 input  T3;
 input  T4;
 input  X5;
-wire VDD;
-wire net66;
 wire net139;
+wire net66;
+wire VDD;
 wire X2;
 wire net36;
 wire T0;
-wire GND;
-wire net27;
 wire T1;
+wire net27;
+wire GND;
 wire [4:0] \~T ;
 wire net91;
 wire net111;
@@ -47,14 +47,14 @@ wire net109;
 wire net95;
 wire net33;
 wire net100;
-wire X3;
-wire X1;
 wire [5:0] X;
+wire X1;
+wire X3;
 wire X4;
-wire X5;
 wire T3;
-wire net96;
 wire net56;
+wire net96;
+wire X5;
 wire net42;
 wire net80;
 wire net104;
@@ -99,27 +99,6 @@ NOR2X1
 NOR2X1    
  I0  ( .VDD( VDD ), .Z( net23 ), .A( X[4] ), .B( \~T [4] ), .GND( GND ) );
 
-INVX1    
- I28  ( .VDD( VDD ), .Z( C5 ), .A( net80 ), .GND( GND ) );
-
-INVX1    
- I20  ( .VDD( VDD ), .Z( net83 ), .A( net109 ), .GND( GND ) );
-
-INVX1    
- I17  ( .VDD( VDD ), .Z( net87 ), .A( net56 ), .GND( GND ) );
-
-INVX1    
- I16  ( .VDD( VDD ), .Z( net91 ), .A( net92 ), .GND( GND ) );
-
-INVX1    
- I15  ( .VDD( VDD ), .Z( net95 ), .A( net96 ), .GND( GND ) );
-
-INVX1    
- I14  ( .VDD( VDD ), .Z( net99 ), .A( net100 ), .GND( GND ) );
-
-INVX1    
- I4  ( .VDD( VDD ), .Z( net103 ), .A( net104 ), .GND( GND ) );
-
 NAND2X1    
  I19  ( .VDD( VDD ), .Z( net109 ), .A( net139 ), .B( net111 ), .GND( GND ) );
 
@@ -140,3 +119,24 @@ NAND2X1
 
 NAND2X1    
  I9  ( .VDD( VDD ), .Z( net139 ), .A( X[0] ), .B( \~T [0] ), .GND( GND ) );
+
+INVX1_param    
+ I20  ( .VDD( VDD ), .Z( net83 ), .A( net109 ), .GND( GND ) );
+
+INVX1_param    
+ I17  ( .VDD( VDD ), .Z( net87 ), .A( net56 ), .GND( GND ) );
+
+INVX1_param    
+ I16  ( .VDD( VDD ), .Z( net91 ), .A( net92 ), .GND( GND ) );
+
+INVX1_param    
+ I15  ( .VDD( VDD ), .Z( net95 ), .A( net96 ), .GND( GND ) );
+
+INVX1_param    
+ I14  ( .VDD( VDD ), .Z( net99 ), .A( net100 ), .GND( GND ) );
+
+INVX1_param    
+ I4  ( .VDD( VDD ), .Z( net103 ), .A( net104 ), .GND( GND ) );
+
+INVX1_param    
+ I45  ( .VDD( VDD ), .Z( C5 ), .A( net80 ), .GND( GND ) );

@@ -23,7 +23,7 @@ Driver
  I0  ( .VDD( VEXT ), .X3( X3 ), .X1( X1 ), .X0( X0 ), .T2( T2 ), .X4( X4 ), .X2( X2 ), .T3( T3 ), .X5( X5 ), .T4( T4 ), .T1( T1 ), .T0( T0 ), .GND( \gnd!  ) );
 
 CLA    
- I8  ( .VDD( VDD ), .C5( OUT ), .X3( X3 ), .X1( X1 ), .X0( X0 ), .X4( X4 ), .X2( X2 ), .T2( T2 ), .X5( X5 ), .T3( T3 ), .T4( T4 ), .T1( T1 ), .T0( T0 ), .GND( \gnd!  ) );
+ I9  ( .VDD( VDD ), .C5( OUT ), .X3( X3 ), .X1( X1 ), .X0( X0 ), .X4( X4 ), .X2( X2 ), .T2( T2 ), .X5( X5 ), .T3( T3 ), .T4( T4 ), .T1( T1 ), .T0( T0 ), .GND( \gnd!  ) );
 
 Load    
  I2  ( .VDD( VEXT ), .OUT( OUT ), .GND( \gnd!  ) );

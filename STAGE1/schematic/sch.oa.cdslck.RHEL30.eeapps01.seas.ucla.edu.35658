@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Tue Mar  7 13:51:37 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /w/home.04/cs/ugrad/hurwitz/ee115c/neural/tb_project/tb_Abs_Value_Detector/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Mar  7 13:53:12 2017 PST
+FilePathUsedToEditLock         /w/home.04/cs/ugrad/hurwitz/ee115c/neural/STAGE1/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Mar  7 14:23:25 2017 PST

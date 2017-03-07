@@ -18,16 +18,16 @@ input  T2;
 input  T3;
 input  T4;
 input  GND;
-wire VDD;
 wire net029;
+wire VDD;
 wire [4:0] T;
 wire X2;
 wire net028;
 wire GND;
-wire T0;
 wire T1;
-wire X0;
+wire T0;
 wire net50;
+wire X0;
 wire T2;
 wire T4;
 wire net025;
@@ -36,14 +36,17 @@ wire net32;
 wire net24;
 wire net44;
 wire [5:0] X;
-wire X1;
 wire X3;
+wire X1;
 wire net15;
 wire X4;
 wire X5;
 wire net026;
 wire T3;
 wire net027;
+
+INVX1_param    
+ I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
 
 INVX1    
  I19  ( .VDD( VDD ), .Z( X[5] ), .A( net021 ), .GND( GND ) );
@@ -59,9 +62,6 @@ INVX1
 
 INVX1    
  I15  ( .VDD( VDD ), .Z( X[1] ), .A( net029 ), .GND( GND ) );
-
-INVX1    
- I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
 
 INVX1    
  I10  ( .VDD( VDD ), .Z( net021 ), .A( X5 ), .GND( GND ) );

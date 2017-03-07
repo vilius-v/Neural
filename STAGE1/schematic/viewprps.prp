@@ -1,8 +1,21 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  5 18:23:55 2017 " )
+ (Created " Mar  7 14:45:43 2017 " )
  (Cell  "\\STAGE1\\"
   (View  "schematic"
+   (Inst "\\I14\\"
+	(Pr
+	 ("ln" "100n")
+	 ("wp" "650n")
+	 ("wn" "430n")
+	 ("lp" "100n")
+	 ("partName" "INVX1_param")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(3.125000,1.375000)")
+	))
    (Inst "\\I19\\"
 	(Pr
 	 ("partName" "INVX1")
@@ -47,15 +60,6 @@
 	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
 	 ("\\pin#\\" "4")
 	 ("XY" "(3.125000,-0.437500)")
-	))
-   (Inst "\\I14\\"
-	(Pr
-	 ("partName" "INVX1")
-	 ("vendorName" "")
-	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
-	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
-	 ("\\pin#\\" "4")
-	 ("XY" "(3.125000,1.375000)")
 	))
    (Inst "\\I10\\"
 	(Pr

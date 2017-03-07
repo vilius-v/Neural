@@ -1,0 +1,26 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 22:08:59 2017 " )
+ (Cell  "\\NOR2X1_p18\\"
+  (View  "schematic"
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "NOR2X1_p17")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  5 18:14:39 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(1.000000,-1.062500)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(1.000000,-3.062500)")
+	))
+  )
+ )
+)

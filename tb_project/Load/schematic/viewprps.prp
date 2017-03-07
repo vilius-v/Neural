@@ -1,0 +1,48 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  3 14:40:54 2013 " )
+ (Cell  "\\Load\\"
+  (View  "schematic"
+   (Inst "\\I1\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("\\pin#\\" "11")
+	 ("gridMultiple" "8")
+	 ("stopLevel" "20")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(0.000000,-0.187500)")
+	)
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]")))
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]"))))
+   (Inst "\\I0\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("\\pin#\\" "11")
+	 ("gridMultiple" "8")
+	 ("stopLevel" "20")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-1.000000,-0.187500)")
+	)
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]")))
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]"))))
+  )
+ )
+)

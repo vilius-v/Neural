@@ -1,0 +1,228 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Feb 26 18:23:39 2013 " )
+ (Cell  "\\Abs\\"
+  (View  "schematic"
+   (Inst "\\I41\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("\\pin#\\" "11")
+	 ("gridMultiple" "8")
+	 ("stopLevel" "20")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-1.187500,-4.000000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I30\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("\\pin#\\" "14")
+	 ("stopLevel" "20")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("gridSpacing" "0.125000")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(1.187500,-1.562500)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I31\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("\\pin#\\" "14")
+	 ("stopLevel" "20")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("gridSpacing" "0.125000")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(3.500000,-0.750000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I29\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("\\pin#\\" "14")
+	 ("stopLevel" "20")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("gridSpacing" "0.125000")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-1.187500,-2.687500)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I32\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("\\pin#\\" "14")
+	 ("stopLevel" "20")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("gridSpacing" "0.125000")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(5.375000,0.000000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I27\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("stopLevel" "20")
+	 ("\\pin#\\" "15")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(3.437500,-0.062500)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I28\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("stopLevel" "20")
+	 ("\\pin#\\" "15")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(5.312500,0.750000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I26\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("stopLevel" "20")
+	 ("\\pin#\\" "15")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(1.125000,-0.875000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I24\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("stopLevel" "20")
+	 ("\\pin#\\" "15")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-1.250000,-3.312500)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I25\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("stopLevel" "20")
+	 ("\\pin#\\" "15")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("gridMultiple" "8")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-1.312500,-2.000000)")
+	)
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]")))
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]"))))
+   (Inst "\\I42\\"
+	(Pr
+	 ("CDLBlackBox" "TRUE")
+	 ("info" "[@libName]:[@cellName]:[@instanceName]")
+	 ("gridSpacing" "0.125000")
+	 ("xSnapSpacing" "0.062500")
+	 ("startLevel" "0")
+	 ("ySnapSpacing" "0.062500")
+	 ("\\pin#\\" "11")
+	 ("gridMultiple" "8")
+	 ("stopLevel" "20")
+	 ("CDLGenerateSubcircuitCard" "FALSE")
+	 ("XY" "(-0.750000,-4.812500)")
+	)
+	(IPrt "\\VDD\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VDD:%:VDD!]")))
+	(IPrt "\\VSS\\"
+	 (Pr
+	 ("DB_Inherited_Net_Expr" "[@VSS:%:VSS!]"))))
+  )
+ )
+)

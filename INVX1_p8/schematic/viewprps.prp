@@ -1,0 +1,44 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 21:58:37 2017 " )
+ (Cell  "\\INVX1_p8\\"
+  (View  "schematic"
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "INVX1_p5")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  5 16:55:48 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(2.000000,0.125000)")
+	))
+   (Inst "\\I3\\"
+	(Pr
+	 ("partName" "INVX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(2.000000,-2.875000)")
+	))
+   (Inst "\\I2\\"
+	(Pr
+	 ("partName" "INVX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(2.000000,-1.875000)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "INVX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(2.000000,-0.875000)")
+	))
+  )
+ )
+)

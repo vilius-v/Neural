@@ -1,0 +1,62 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 22:11:38 2017 " )
+ (Cell  "\\NAND_P6\\"
+  (View  "schematic"
+   (Inst "\\I5\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-10.187500)")
+	))
+   (Inst "\\I4\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-8.187500)")
+	))
+   (Inst "\\I3\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-6.187500)")
+	))
+   (Inst "\\I2\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-4.187500)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-2.187500)")
+	))
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.187500,-0.187500)")
+	))
+  )
+ )
+)

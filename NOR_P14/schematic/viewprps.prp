@@ -1,0 +1,134 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 17:14:23 2017 " )
+ (Cell  "\\NOR_P14\\"
+  (View  "schematic"
+   (Inst "\\I13\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-27.250000)")
+	))
+   (Inst "\\I12\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-25.125000)")
+	))
+   (Inst "\\I11\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-23.000000)")
+	))
+   (Inst "\\I10\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-20.875000)")
+	))
+   (Inst "\\I9\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-18.750000)")
+	))
+   (Inst "\\I8\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-16.625000)")
+	))
+   (Inst "\\I7\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-14.500000)")
+	))
+   (Inst "\\I6\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-12.375000)")
+	))
+   (Inst "\\I5\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-10.250000)")
+	))
+   (Inst "\\I4\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-8.125000)")
+	))
+   (Inst "\\I3\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-6.000000)")
+	))
+   (Inst "\\I2\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-3.875000)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,-1.750000)")
+	))
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "NOR2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  2 01:42:22 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.000000,0.375000)")
+	))
+  )
+ )
+)

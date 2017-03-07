@@ -1,0 +1,26 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 22:26:46 2017 " )
+ (Cell  "\\NAND_P7\\"
+  (View  "schematic"
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "NAND2X1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 22:35:19 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.625000,-0.500000)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "NAND_P6")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"B\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  5 22:12:26 2017")
+	 ("\\pin#\\" "5")
+	 ("XY" "(5.625000,-2.437500)")
+	))
+  )
+ )
+)

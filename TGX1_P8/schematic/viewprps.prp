@@ -1,0 +1,80 @@
+(PropertyFile "1.0"
+ (Creator " HDL Direct ver ver-date" )
+ (Created " Mar  5 21:42:18 2017 " )
+ (Cell  "\\TGX1_P8\\"
+  (View  "schematic"
+   (Inst "\\I7\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-12.875000)")
+	))
+   (Inst "\\I6\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-10.875000)")
+	))
+   (Inst "\\I5\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-8.875000)")
+	))
+   (Inst "\\I4\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-6.875000)")
+	))
+   (Inst "\\I3\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-4.875000)")
+	))
+   (Inst "\\I2\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-2.875000)")
+	))
+   (Inst "\\I1\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,-0.875000)")
+	))
+   (Inst "\\I0\\"
+	(Pr
+	 ("partName" "TGX1")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
+	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
+	 ("\\pin#\\" "6")
+	 ("XY" "(0.062500,1.125000)")
+	))
+  )
+ )
+)

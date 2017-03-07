@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hurwitz
+HostName                       eeapps01.seas.ucla.edu
+ProcessIdentifier              35658
+ProcessCreationTime_UTC        1488923497
+ProcessCreationTime_Readable   Tue Mar  7 13:51:37 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.04/cs/ugrad/hurwitz/ee115c/neural/CLA/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Mar  7 13:52:33 2017 PST

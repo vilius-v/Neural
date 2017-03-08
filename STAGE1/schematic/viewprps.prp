@@ -1,13 +1,13 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  7 16:11:39 2017 " )
+ (Created " Mar  7 16:50:25 2017 " )
  (Cell  "\\STAGE1\\"
   (View  "schematic"
    (Inst "\\I19\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -19,8 +19,8 @@
    (Inst "\\I18\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -32,8 +32,8 @@
    (Inst "\\I17\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -45,8 +45,8 @@
    (Inst "\\I16\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -58,8 +58,8 @@
    (Inst "\\I15\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -68,11 +68,24 @@
 	 ("\\pin#\\" "4")
 	 ("XY" "(3.125000,-0.437500)")
 	))
-   (Inst "\\I10\\"
+   (Inst "\\I14\\"
 	(Pr
 	 ("ln" "100n")
 	 ("wp" "650n")
 	 ("wn" "430n")
+	 ("lp" "100n")
+	 ("partName" "INVX1_param")
+	 ("vendorName" "")
+	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
+	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("\\pin#\\" "4")
+	 ("XY" "(3.125000,1.375000)")
+	))
+   (Inst "\\I10\\"
+	(Pr
+	 ("ln" "100n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -84,8 +97,8 @@
    (Inst "\\I20\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -97,8 +110,8 @@
    (Inst "\\I4\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -110,8 +123,8 @@
    (Inst "\\I3\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -123,8 +136,8 @@
    (Inst "\\I2\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -136,8 +149,8 @@
    (Inst "\\I1\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -162,8 +175,8 @@
    (Inst "\\I21\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -175,8 +188,8 @@
    (Inst "\\I24\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -188,8 +201,8 @@
    (Inst "\\I23\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -201,8 +214,8 @@
    (Inst "\\I22\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")
@@ -210,19 +223,6 @@
 	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
 	 ("\\pin#\\" "4")
 	 ("XY" "(-1.062500,-11.250000)")
-	))
-   (Inst "\\I14\\"
-	(Pr
-	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
-	 ("lp" "100n")
-	 ("partName" "INVX1_param")
-	 ("vendorName" "")
-	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
-	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
-	 ("\\pin#\\" "4")
-	 ("XY" "(3.125000,1.375000)")
 	))
    (Inst "\\I9\\"
 	(Pr

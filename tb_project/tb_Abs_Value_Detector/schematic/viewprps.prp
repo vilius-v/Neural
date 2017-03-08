@@ -1,6 +1,6 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  7 14:32:00 2017 " )
+ (Created " Mar  7 16:37:42 2017 " )
  (Cell  "\\tb_Abs_Value_Detector\\"
   (View  "schematic"
    (Inst "\\I0\\"

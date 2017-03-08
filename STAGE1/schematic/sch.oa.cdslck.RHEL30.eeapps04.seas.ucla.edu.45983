@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      hurwitz
-HostName                       eeapps01.seas.ucla.edu
-ProcessIdentifier              35658
-ProcessCreationTime_UTC        1488923497
-ProcessCreationTime_Readable   Tue Mar  7 13:51:37 2017 PST
+HostName                       eeapps04.seas.ucla.edu
+ProcessIdentifier              45983
+ProcessCreationTime_UTC        1488931298
+ProcessCreationTime_Readable   Tue Mar  7 16:01:38 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /w/home.04/cs/ugrad/hurwitz/ee115c/neural/STAGE1/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Mar  7 14:23:25 2017 PST
+TimeEditLocked                 Tue Mar  7 16:37:15 2017 PST

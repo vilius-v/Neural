@@ -23,9 +23,9 @@ wire net029;
 wire [4:0] T;
 wire X2;
 wire net028;
-wire T0;
-wire T1;
 wire GND;
+wire T1;
+wire T0;
 wire net50;
 wire X0;
 wire T2;
@@ -41,8 +41,8 @@ wire X1;
 wire net15;
 wire X4;
 wire X5;
-wire net026;
 wire T3;
+wire net026;
 wire net027;
 
 INVX1_param    
@@ -59,6 +59,9 @@ INVX1_param
 
 INVX1_param    
  I15  ( .VDD( VDD ), .Z( X[1] ), .A( net029 ), .GND( GND ) );
+
+INVX1_param    
+ I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
 
 INVX1_param    
  I10  ( .VDD( VDD ), .Z( net021 ), .A( X5 ), .GND( GND ) );
@@ -92,9 +95,6 @@ INVX1_param
 
 INVX1_param    
  I22  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( GND ) );
-
-INVX1_param    
- I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
 
 \3X1MUX     
  I9  ( .VDD( VDD ), .C( X5 ), .Z( net027 ), .A( X4 ), .B( net32 ), .GND( GND ) );

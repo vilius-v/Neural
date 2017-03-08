@@ -1,13 +1,13 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  7 16:11:35 2017 " )
+ (Created " Mar  7 16:42:25 2017 " )
  (Cell  "\\3X1MUX\\"
   (View  "schematic"
    (Inst "\\I1\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "325n")
 	 ("lp" "100n")
 	 ("partName" "TGX1_param")
 	 ("vendorName" "")
@@ -19,8 +19,8 @@
    (Inst "\\I0\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "650n")
+	 ("wp" "325n")
+	 ("wn" "325n")
 	 ("lp" "100n")
 	 ("partName" "TGX1_param")
 	 ("vendorName" "")
@@ -32,8 +32,8 @@
    (Inst "\\I3\\"
 	(Pr
 	 ("ln" "100n")
-	 ("wp" "650n")
-	 ("wn" "430n")
+	 ("wp" "325n")
+	 ("wn" "215n")
 	 ("lp" "100n")
 	 ("partName" "INVX1_param")
 	 ("vendorName" "")

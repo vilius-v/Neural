@@ -10,12 +10,12 @@ input  VDD;
 input  C;
 output  Z;
 wire VDD;
-wire net16;
 wire C;
+wire net16;
 wire Z;
 wire A;
-wire GND;
 wire B;
+wire GND;
 
 TGX1_param    
  I1  ( .\~S ( C ), .VDD( VDD ), .S( net16 ), .Z( Z ), .A( B ), .GND( GND ) );

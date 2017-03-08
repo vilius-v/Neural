@@ -22,27 +22,27 @@ wire net029;
 wire VDD;
 wire [4:0] T;
 wire X2;
-wire T1;
+wire T0;
 wire GND;
 wire net028;
-wire T0;
+wire T1;
 wire net50;
 wire X0;
 wire T2;
 wire T4;
 wire net025;
 wire net021;
-wire net32;
 wire net24;
+wire net32;
 wire net44;
 wire [5:0] X;
 wire X3;
 wire X1;
 wire net15;
 wire X4;
-wire X5;
 wire net026;
 wire T3;
+wire X5;
 wire net027;
 
 INVX1    
@@ -52,19 +52,22 @@ INVX1
  I0  ( .VDD( VDD ), .Z( net24 ), .A( X0 ), .GND( GND ) );
 
 \3X1MUX     
- I9  ( .VDD( VDD ), .C( GND ), .Z( net027 ), .A( X4 ), .B( net32 ), .GND( GND ) );
+ I9  ( .VDD( VDD ), .C( X5 ), .Z( net027 ), .A( X4 ), .B( net32 ), .GND( GND ) );
 
 \3X1MUX     
- I8  ( .VDD( VDD ), .C( GND ), .Z( net026 ), .A( X3 ), .B( net15 ), .GND( GND ) );
+ I8  ( .VDD( VDD ), .C( X5 ), .Z( net026 ), .A( X3 ), .B( net15 ), .GND( GND ) );
 
 \3X1MUX     
- I7  ( .VDD( VDD ), .C( GND ), .Z( net025 ), .A( X2 ), .B( net44 ), .GND( GND ) );
+ I7  ( .VDD( VDD ), .C( X5 ), .Z( net025 ), .A( X2 ), .B( net44 ), .GND( GND ) );
 
 \3X1MUX     
- I6  ( .VDD( VDD ), .C( GND ), .Z( net029 ), .A( X1 ), .B( net50 ), .GND( GND ) );
+ I6  ( .VDD( VDD ), .C( X5 ), .Z( net029 ), .A( X1 ), .B( net50 ), .GND( GND ) );
 
 \3X1MUX     
- I5  ( .VDD( VDD ), .C( GND ), .Z( net028 ), .A( X0 ), .B( net24 ), .GND( GND ) );
+ I5  ( .VDD( VDD ), .C( X5 ), .Z( net028 ), .A( X0 ), .B( net24 ), .GND( GND ) );
+
+INVX1_s0    
+ I26  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( GND ) );
 
 INVX1_s0    
  I19  ( .VDD( VDD ), .Z( X[5] ), .A( net021 ), .GND( GND ) );
@@ -103,13 +106,10 @@ INVX1_s0
  I21  ( .VDD( VDD ), .Z( T[1] ), .A( T1 ), .GND( GND ) );
 
 INVX1_s0    
- I24  ( .VDD( VDD ), .Z( T[4] ), .A( T4 ), .GND( VDD ) );
+ I24  ( .VDD( VDD ), .Z( T[4] ), .A( T4 ), .GND( GND ) );
 
 INVX1_s0    
- I23  ( .VDD( VDD ), .Z( T[3] ), .A( T3 ), .GND( VDD ) );
-
-INVX1_s0    
- I22  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( T[2] ) );
+ I23  ( .VDD( VDD ), .Z( T[3] ), .A( T3 ), .GND( GND ) );
 
 endmodule
 

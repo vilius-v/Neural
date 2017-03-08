@@ -1,15 +1,11 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  7 16:42:25 2017 " )
+ (Created " Mar  7 23:18:39 2017 " )
  (Cell  "\\3X1MUX\\"
   (View  "schematic"
    (Inst "\\I1\\"
 	(Pr
-	 ("ln" "100n")
-	 ("wp" "325n")
-	 ("wn" "325n")
-	 ("lp" "100n")
-	 ("partName" "TGX1_param")
+	 ("partName" "TGX1")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
 	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
@@ -18,11 +14,7 @@
 	))
    (Inst "\\I0\\"
 	(Pr
-	 ("ln" "100n")
-	 ("wp" "325n")
-	 ("wn" "325n")
-	 ("lp" "100n")
-	 ("partName" "TGX1_param")
+	 ("partName" "TGX1")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
 	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
@@ -31,16 +23,12 @@
 	))
    (Inst "\\I3\\"
 	(Pr
-	 ("ln" "100n")
-	 ("wp" "325n")
-	 ("wn" "215n")
-	 ("lp" "100n")
-	 ("partName" "INVX1_param")
+	 ("partName" "INVX1_s0")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
-	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")
+	 ("interfaceLastChanged" "Mar  7 22:41:57 2017")
 	 ("\\pin#\\" "4")
-	 ("XY" "(-3.312500,-0.875000)")
+	 ("XY" "(-3.312500,-1.125000)")
 	))
   )
  )

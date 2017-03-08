@@ -1,11 +1,15 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  5 18:27:53 2017 " )
+ (Created " Mar  7 16:11:35 2017 " )
  (Cell  "\\3X1MUX\\"
   (View  "schematic"
    (Inst "\\I1\\"
 	(Pr
-	 ("partName" "TGX1")
+	 ("ln" "100n")
+	 ("wp" "650n")
+	 ("wn" "430n")
+	 ("lp" "100n")
+	 ("partName" "TGX1_param")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
 	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
@@ -14,7 +18,11 @@
 	))
    (Inst "\\I0\\"
 	(Pr
-	 ("partName" "TGX1")
+	 ("ln" "100n")
+	 ("wp" "650n")
+	 ("wn" "650n")
+	 ("lp" "100n")
+	 ("partName" "TGX1_param")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"S\" \"VDD\" \"~S\")")
 	 ("interfaceLastChanged" "Mar  4 13:32:12 2017")
@@ -23,7 +31,11 @@
 	))
    (Inst "\\I3\\"
 	(Pr
-	 ("partName" "INVX1")
+	 ("ln" "100n")
+	 ("wp" "650n")
+	 ("wn" "430n")
+	 ("lp" "100n")
+	 ("partName" "INVX1_param")
 	 ("vendorName" "")
 	 ("portOrder" "(\"Z\" \"A\" \"GND\" \"VDD\")")
 	 ("interfaceLastChanged" "Mar  1 23:50:11 2017")

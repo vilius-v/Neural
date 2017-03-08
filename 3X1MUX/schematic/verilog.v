@@ -10,20 +10,20 @@ input  VDD;
 input  C;
 output  Z;
 wire VDD;
-wire C;
 wire net16;
+wire C;
 wire Z;
 wire A;
 wire GND;
 wire B;
 
-TGX1    
+TGX1_param    
  I1  ( .\~S ( C ), .VDD( VDD ), .S( net16 ), .Z( Z ), .A( B ), .GND( GND ) );
 
-TGX1    
+TGX1_param    
  I0  ( .\~S ( net16 ), .VDD( VDD ), .S( C ), .Z( Z ), .A( A ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I3  ( .VDD( VDD ), .Z( net16 ), .A( C ), .GND( GND ) );
 
 endmodule

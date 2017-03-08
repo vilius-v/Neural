@@ -18,13 +18,13 @@ input  T2;
 input  T3;
 input  T4;
 input  GND;
-wire VDD;
 wire net029;
+wire VDD;
 wire [4:0] T;
 wire X2;
-wire net028;
-wire GND;
 wire T0;
+wire GND;
+wire net028;
 wire T1;
 wire net50;
 wire X0;
@@ -46,55 +46,55 @@ wire T3;
 wire net027;
 
 INVX1_param    
- I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
-
-INVX1    
  I19  ( .VDD( VDD ), .Z( X[5] ), .A( net021 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I18  ( .VDD( VDD ), .Z( X[4] ), .A( net027 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I17  ( .VDD( VDD ), .Z( X[3] ), .A( net026 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I16  ( .VDD( VDD ), .Z( X[2] ), .A( net025 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I15  ( .VDD( VDD ), .Z( X[1] ), .A( net029 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I10  ( .VDD( VDD ), .Z( net021 ), .A( X5 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I20  ( .VDD( VDD ), .Z( T[0] ), .A( T0 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I4  ( .VDD( VDD ), .Z( net32 ), .A( X4 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I3  ( .VDD( VDD ), .Z( net15 ), .A( X3 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I2  ( .VDD( VDD ), .Z( net44 ), .A( X2 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I1  ( .VDD( VDD ), .Z( net50 ), .A( X1 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I0  ( .VDD( VDD ), .Z( net24 ), .A( X0 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I21  ( .VDD( VDD ), .Z( T[1] ), .A( T1 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I24  ( .VDD( VDD ), .Z( T[4] ), .A( T4 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I23  ( .VDD( VDD ), .Z( T[3] ), .A( T3 ), .GND( GND ) );
 
-INVX1    
+INVX1_param    
  I22  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( GND ) );
+
+INVX1_param    
+ I14  ( .VDD( VDD ), .Z( X[0] ), .A( net028 ), .GND( GND ) );
 
 \3X1MUX     
  I9  ( .VDD( VDD ), .C( X5 ), .Z( net027 ), .A( X4 ), .B( net32 ), .GND( GND ) );

@@ -13,9 +13,9 @@ wire VDD;
 wire C;
 wire Z;
 wire A;
-wire B;
-wire net010;
 wire GND;
+wire net010;
+wire B;
 
 TGX1    
  I1  ( .\~S ( C ), .VDD( VDD ), .S( net010 ), .Z( Z ), .A( B ), .GND( GND ) );
@@ -24,7 +24,7 @@ TGX1
  I0  ( .\~S ( net010 ), .VDD( VDD ), .S( C ), .Z( Z ), .A( A ), .GND( GND ) );
 
 INVX1_s0    
- I6  ( .VDD( GND ), .Z( net010 ), .A( C ), .GND( VDD ) );
+ I6  ( .VDD( VDD ), .Z( net010 ), .A( C ), .GND( GND ) );
 
 endmodule
 

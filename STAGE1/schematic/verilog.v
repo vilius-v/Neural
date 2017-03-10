@@ -18,8 +18,8 @@ input  T2;
 input  T3;
 input  T4;
 input  GND;
-wire net029;
 wire VDD;
+wire net029;
 wire [4:0] T;
 wire X2;
 wire T0;
@@ -32,8 +32,8 @@ wire T2;
 wire T4;
 wire net025;
 wire net021;
-wire net24;
 wire net32;
+wire net24;
 wire net44;
 wire [5:0] X;
 wire X3;
@@ -65,9 +65,6 @@ INVX1
 
 \3X1MUX     
  I5  ( .VDD( VDD ), .C( X5 ), .Z( net028 ), .A( X0 ), .B( net24 ), .GND( GND ) );
-
-INVX1_s0    
- I26  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( GND ) );
 
 INVX1_s0    
  I19  ( .VDD( VDD ), .Z( X[5] ), .A( net021 ), .GND( GND ) );
@@ -110,6 +107,9 @@ INVX1_s0
 
 INVX1_s0    
  I23  ( .VDD( VDD ), .Z( T[3] ), .A( T3 ), .GND( GND ) );
+
+INVX1_s0    
+ I26  ( .VDD( VDD ), .Z( T[2] ), .A( T2 ), .GND( GND ) );
 
 endmodule
 

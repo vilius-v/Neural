@@ -13,9 +13,9 @@ wire VDD;
 wire C;
 wire Z;
 wire A;
+wire B;
 wire GND;
 wire net010;
-wire B;
 
 TGX1    
  I1  ( .\~S ( C ), .VDD( VDD ), .S( net010 ), .Z( Z ), .A( B ), .GND( GND ) );

@@ -1,6 +1,6 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  7 17:59:44 2017 " )
+ (Created " Mar  9 21:24:56 2017 " )
  (Cell  "\\NOR2X1_s2\\"
   (View  "schematic"
    (Inst "\\NM1\\"
